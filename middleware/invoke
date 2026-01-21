@@ -2,7 +2,7 @@
 
 /usr/bin/invoke_app "$@" \
   -C "start_jupyter -A -T @tool a2bcx4_abx2.ipynb" \
-  -t defectdatabase \
+  -t chalcodb \
   -u anaconda-7 \
   -r none \
   -w headless

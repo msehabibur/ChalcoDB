@@ -1,7 +1,7 @@
 #!/bin/sh
 
 /usr/bin/invoke_app "$@" \
-  -C "start_jupyter -A -T @tool a2bcx4_abx2_v4.ipynb" \
+  -C "start_jupyter -A -T @tool a2bcx4_abx2_v5.ipynb" \
   -t chalcodb \
   -u anaconda-7 \
   -r none \
